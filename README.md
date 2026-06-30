@@ -26,36 +26,6 @@ I design and build native apps for Apple platforms — if an idea pops into my h
 
 ---
 
-### 🧰 Tech Stack
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-> My pinned projects are right below — here's what to look for in each.
-
-| Project | What it shows |
-|---------|---------------|
-| **[Project name](#)** | _One line on what it does and the SwiftUI technique it highlights_ |
-| **[Project name](#)** | _One line on what it does and the SwiftUI technique it highlights_ |
-| **[Project name](#)** | _One line on what it does and the SwiftUI technique it highlights_ |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
----
 
 ### ⚡ Fun facts
 
